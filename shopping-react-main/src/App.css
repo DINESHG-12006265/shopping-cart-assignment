@@ -1,0 +1,60 @@
+
+.container{
+  margin: 10px 20px 20px;
+  border-radius: 80px;
+  background-color: white;
+  padding: 50;
+  text-align: center;
+  margin-left: 150px;
+  border-radius: 2px;
+  
+  
+}
+.card-body{
+  background-color: rgb(245, 241, 236);
+  /* text-align: left; */
+  font-size: medium;
+}
+.heart_1{
+  text-align: center;
+  size: 20px;
+}
+.card-body_2{
+  text-align: center;
+  padding-left: 8px;
+}
+
+.Button{
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  border-radius: 20px;
+  font-size: medium;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-display: inherit;
+  
+}
+.Button:hover{
+  font-size: large;
+  background-color: rgb(80, 80, 247);
+}
+
+
+.col-sm{
+  padding: 10px;
+  margin: 10px;
+  background: space;
+  border-radius: 5px;
+  border-color: black;
+}
+
+.card-title text{
+  text-align: center;
+}
+
+.card-img-top{
+  border-radius: 5px;
+}
+
+.card-img-top a img:hover{
+    font-size: 200px;
+}
